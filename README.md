@@ -34,6 +34,6 @@ The code output is a dataframe with the columns: date, uid (state ID), suspected
 |3      |2020-02-26 |Barra Mansa |RJ      |1                  |
 |3      |2020-02-26 |Vila Velha  |ES      |1                  |
 ...
-|2      |2020-03-27 |Fortaleza   |CE      |45                 |
-|3      |2020-03-27 |Araguaína   |TO      |1                  |
-|3      |2020-03-27 |Macapá      |AP      |1                  |
+|713    |2020-03-27 |Fortaleza   |CE      |45                 |
+|714    |2020-03-27 |Araguaína   |TO      |1                  |
+|715    |2020-03-27 |Macapá      |AP      |1                  |
